@@ -1,0 +1,16 @@
+
+.root {
+    font-family: "Red Rose", cursive;
+}
+
+.container{
+    display: flex;
+    /* margin-top: 10px; */
+    background: linear-gradient(180deg, rgba(0,82,124,1) 0%, rgba(0,81,122,1) 100%);
+}
+
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
